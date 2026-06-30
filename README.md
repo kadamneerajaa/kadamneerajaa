@@ -86,8 +86,8 @@ Fingertip tracking model with 85% accuracy using MediaPipe + TensorFlow, publish
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kadamneerajaa&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadamneerajaa&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.anuraghazra1.workers.dev/api?username=kadamneerajaa&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.anuraghazra1.workers.dev/api/top-langs/?username=kadamneerajaa&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
