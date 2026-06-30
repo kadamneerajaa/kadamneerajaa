@@ -6,7 +6,7 @@ I build backend systems that scale and AI tools that actually work in production
 
 When I'm not coding, I'm singing, fusion cooking, or exploring Boston. 🎵🍳
 
-📍 Boston, MA &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/neerajaakadam)
+📍 Boston, MA &nbsp;|&nbsp; ✉️ kadam.nee@northeastern.edu &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/neerajaakadam)
 
 ---
 
