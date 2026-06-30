@@ -2,7 +2,7 @@
 
 ### Software Engineer · MS Software Engineering Systems @ Northeastern · Boston, MA
 
-I build backend systems that scale and AI tools that actually work in production. 2 years at Accenture shipping Spring Boot microservices and RAG pipelines — now deepening in cloud-native architecture and GenAI at Northeastern.
+I build backend systems that scale and AI tools that actually work in production. 2 years at Accenture shipping Spring Boot microservices and RAG pipelines. Now deepening in cloud-native architecture and GenAI at Northeastern.
 
 When I'm not coding, I'm singing, fusion cooking, or exploring Boston. 🎵🍳
 
