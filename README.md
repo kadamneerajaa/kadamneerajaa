@@ -1,8 +1,8 @@
-# Hey! 👋 I'm Neerajaa Kadam
+# Hey! 👋 I'm Neerajaa
 
 ### Software Engineer · MS Software Engineering Systems @ Northeastern · Boston, MA
 
-I build backend systems that scale and AI tools that actually work in production. 2 years at Accenture shipping Spring Boot microservices and RAG pipelines. Now deepening in cloud-native architecture and GenAI at Northeastern.
+I build backend systems that scale and AI tools that actually work in production. 2 years at Accenture shipping Spring Boot microservices and RAG pipelines — now deepening in cloud-native architecture and GenAI at Northeastern.
 
 When I'm not coding, I'm singing, fusion cooking, or exploring Boston. 🎵🍳
 
@@ -48,24 +48,24 @@ When I'm not coding, I'm singing, fusion cooking, or exploring Boston. 🎵🍳
 
 ## 🚀 Projects I'm Proud Of
 
-### ☁️ Cloud-Native User Management & File Storage API
+### ☁️ [Cloud-Native User Management & File Storage API](https://github.com/kadamneerajaa/webapp)
 Full AWS infrastructure with Terraform, Spring Boot REST API across auto-scaling EC2, zero-downtime CI/CD, and serverless email verification via Lambda + SNS.
 
-`Spring Boot` `Terraform` `AWS` `Lambda` `KMS` `SNS` `DynamoDB` `GitHub Actions` `Packer` · 🔗 [GitHub](https://github.com/kadamneerajaa/webapp)
+`Spring Boot` `Terraform` `AWS` `Lambda` `KMS` `SNS` `DynamoDB` `GitHub Actions` `Packer`
 
 ---
 
-### 🍽️ Student Meal Planner
+### 🍽️ [Student Meal Planner](https://github.com/kadamneerajaa/Student_Meal_Planner)
 Full-stack meal planning platform with 25+ REST APIs, custom Java HTTP server backend, and Factory/Repository design patterns.
 
-`Java` `React` `REST APIs` `OOP Design Patterns` · 🔗 [GitHub](https://github.com/kadamneerajaa/Student_Meal_Planner)
+`Java` `React` `REST APIs` `OOP Design Patterns`
 
 ---
 
-### 🏠 Housing Management System
+### 🏠 [Housing Management System](https://github.com/kadamneerajaa/Housing_Management_System)
 Normalized Oracle SQL database to 3NF across 9 tables with role-based access control for 4 user types.
 
-`Oracle SQL` `Database Design` `3NF` `RBAC` · 🔗 [GitHub](https://github.com/kadamneerajaa/Housing_Management_System)
+`Oracle SQL` `Database Design` `3NF` `RBAC`
 
 ---
 
