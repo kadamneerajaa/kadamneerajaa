@@ -76,10 +76,10 @@ Cross-platform mobile storytelling app (iOS/Android) with Node.js backend and Mo
 
 ---
 
-### 📄 Gesture Recognition — Springer Research Paper
+### 📄 [Gesture Recognition — Springer Research Paper](https://link.springer.com/chapter/10.1007/978-981-99-4932-8_32)
 Fingertip tracking model with 85% accuracy using MediaPipe + TensorFlow, published at ICT4SD 2023.
 
-`Python` `TensorFlow` `MediaPipe` `OpenCV` · 🔗 [Paper](https://link.springer.com/chapter/10.1007/978-981-99-4932-8_32)
+`Python` `TensorFlow` `MediaPipe` `OpenCV`
 
 ---
 
